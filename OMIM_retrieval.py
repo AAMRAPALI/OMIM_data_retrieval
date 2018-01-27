@@ -10,7 +10,7 @@ def get_OMIM_annotations():
 	"""
 	Retrieves OMIM information from Ensembl 89
 
-	Returns: A DataFrame containing SMART, GO, and HGNC annotations from Ensembl 89
+	Returns: A DataFrame containing OMIM annotations from Ensembl 89
 
 	"""
 
